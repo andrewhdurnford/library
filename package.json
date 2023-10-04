@@ -5,7 +5,7 @@
   "main": "tailwind.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npx tailwindcss -i ./src/css/input.css -o ./src/css/output.css"
+    "build": "npx tailwindcss -i ./dist/input.css -o ./src/css/output.css"
   },
   "author": "Andrew Durnford",
   "license": "ISC"
